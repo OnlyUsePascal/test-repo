@@ -6,7 +6,9 @@
 
 etc.
 
-And this is body text.123
+And this is body text.1234
+
+and this new line too
 
 Another change to the file
 
