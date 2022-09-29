@@ -12,3 +12,4 @@ and this new line too
 
 Another change to the file
 
+Changes made in branch 1
